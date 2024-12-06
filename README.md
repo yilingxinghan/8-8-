@@ -55,10 +55,10 @@
 ### 项目展示
 
 #### 界面
-![](resource\interface.png)
+![](https://github.com/yilingxinghan/HandwrittenDigitRecognition/blob/master/resource/demonstration.png)
 
 #### 识别效果
-![](resource\demonstration.png)
+![](https://github.com/yilingxinghan/HandwrittenDigitRecognition/blob/master/resource/interface.png)
 
 
 ## 总结
